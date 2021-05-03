@@ -1,1 +1,2 @@
 Here I write commands.
+Git's commands are as follows:
